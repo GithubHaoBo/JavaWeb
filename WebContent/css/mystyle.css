@@ -1,0 +1,13 @@
+* {
+	font-size: 20px;
+	text-align: center;
+}
+
+label {
+	display: inline-block;
+	width: 300px;
+	border: 1px solid;
+}
+input{
+	width:300px;
+}
